@@ -1,3 +1,3 @@
-# VaporWeb
+# Swift + Kubernetes
 
-A description of this package.
+A Demo Swift web app build with Vapor to deploy on the Docker and Kubernetes cluster 
